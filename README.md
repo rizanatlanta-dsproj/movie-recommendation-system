@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/1TBiLJycoT08Q0oH7Lihvv7BeYtmS2ss9?usp=sh
 Input your preferred movie(s) and see recommended movies to your liking.
 
 ## DEMO VIDEO AND SCREENSHOT(S):
-- Demo video  : https://drive.google.com/file/d/1xED1e9j7_W1adblV_vDGLMIebOZWFe77/view?usp=sharing
+- Demo video  : https://drive.google.com/file/d/1LSyGP_C5mNK7kfliCAhfS8Fv_X-GLFeB/view?usp=sharing
 - screenshot 1: https://drive.google.com/file/d/1vIIiywVNE_rdNHgOol9CUnFZ1ezj4h4n/view?usp=sharing
 - screenshot 2: https://drive.google.com/file/d/1SJYQWKLg5baC5n01xMKX2q911nvQhbHU/view?usp=sharing
 

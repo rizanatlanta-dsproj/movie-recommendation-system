@@ -43,6 +43,20 @@ Input your preferred movie(s) and see recommended movies to your liking.
 -Add user ratings feedback loop to improve accuracy.
 -Deploy as interactive web app by either Streamlit/Django/Flask.
 
+## References & Learning Resources:
+This project was created primarily as a learning exercise, and the following resources were used for conceptual understanding rather than **direct code replication**.
+
+- Ricci, F.,Rokach, & Shapira, B. Recommender Systems Handbook -- for understanding the theoretical foundations of collaborative and content-based recommendation systems.
+
+- Geron, A. Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow -- for practical guidance on machine learning workflows and feature engineering.
+
+- Scikit-Learn Documentation -- for similarity metrics, vectorization techniques, and model utilities used in this project.
+
+- Kaggle Tutorials and Notebooks -- for dataset exploration practices and baseline recommender approaches.
+
+- Harvard CS50 -- for strengthening overall programming logic and problem solving skills applied in this project.
+
+All implementation decisions and code were developed independently as part of my self learning process.
 
 
 
